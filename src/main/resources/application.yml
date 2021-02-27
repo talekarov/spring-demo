@@ -1,12 +1,14 @@
-  spring:
-    application:
-      name: Spring demo
-    datasource:
-      driver-class-name: org.h2.Driver
-      password: ''
-      url: jdbc:h2:mem:bootapp;DB_CLOSE_DELAY=-1
-      username: tk
+spring:
+  application:
+    name: Spring demo
+  datasource:
+    driver-class-name: org.h2.Driver
+    password: ''
+    url: jdbc:h2:mem:bootapp
 
-  logging:
-    level:
-      root: DEBUG
+logging:
+  level:
+    root: DEBUG
+
+jwt:
+  secret: tale
