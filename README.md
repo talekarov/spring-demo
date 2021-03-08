@@ -1,10 +1,15 @@
 # spring-demo
-Spring project for user management.
+Spring-boot project for user management.
 
 ## Technologies
 Project is created with:
 * Java 11
 * Apache Maven 3
+* Spring 2.4
+* JPA 
+* Hibernate
+* Swagger
+* JUnit
 
 ## Setup
 Compile, test and package:
