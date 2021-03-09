@@ -6,8 +6,7 @@ Project is created with:
 * Java 11
 * Apache Maven 3
 * Spring 2.4
-* JPA 
-* Hibernate
+* Spring Data JPA
 * Swagger
 * JUnit
 
