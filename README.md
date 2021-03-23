@@ -5,7 +5,7 @@ Spring-boot project for user management.
 Project is created with:
 * Java 11
 * Apache Maven 3
-* Spring 2.4
+* Spring-boot 2.4
 * Spring Data JPA
 * Swagger
 * JUnit
