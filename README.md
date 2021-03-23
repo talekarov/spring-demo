@@ -11,6 +11,7 @@ Project is created with:
 * Swagger
 * JUnit
 * Mockito
+* JSON Web Token
 
 ## Setup
 Compile, test and package:
