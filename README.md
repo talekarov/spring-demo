@@ -7,8 +7,10 @@ Project is created with:
 * Apache Maven 3
 * Spring-boot 2.4
 * Spring Data JPA
+* H2
 * Swagger
 * JUnit
+* Mockito
 
 ## Setup
 Compile, test and package:
